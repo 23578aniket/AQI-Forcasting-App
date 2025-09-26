@@ -1,4 +1,6 @@
 AQI Forecasting for Indian Cities
+<img width="2537" height="1295" alt="image" src="https://github.com/user-attachments/assets/795852f4-47e6-4425-bc82-84c20ae62b5b" />
+
 View the Live Deployed Application Here [https://aqiforcastingapp.streamlit.app/]
 1. Project Overview
 This project is a comprehensive data science application designed to forecast the Air Quality Index (AQI) for major cities across India. It leverages historical air quality data to train a time-series model (Facebook's Prophet) capable of predicting future AQI values.
